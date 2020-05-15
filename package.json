@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@prisma/cli": "2.0.0-beta.5"
+  },
+  "dependencies": {
+    "@prisma/client": "2.0.0-beta.5",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
